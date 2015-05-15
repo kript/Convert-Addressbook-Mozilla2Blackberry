@@ -338,14 +338,16 @@ None by default.
 
 Also see Mozilla::Mork
 
-Dawn is a decent Windows addressbook converter program thar handles Mozilla Mork formats (unusually);
+Dawn used to be a decent Windows addressbook converter program thar handles Mozilla Mork 
+formats (unusually);
 http://www.joshie.com/projects/dawn/
 
-Thanks to my company for giving me time work on this and release it to the public domain (http://www.ipaccess.com)
+but that was in 2005...
+
+Thanks www.ip.access.com for giving me time to work on this and release it to the public domain originally.
 
 Thanks to Brian d Foy who took the time to assist me with the name convention.
 
-I'll probably put up a web page here eventually: http://www.kript.net
 
 =head1 AUTHOR
 
